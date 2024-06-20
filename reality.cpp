@@ -23,9 +23,9 @@ int main() {
     parallel_swaps(gen_branches);
     parallel_generate(ES_BEs);
     //... ?
-    //?
-    //WHO ABOVE?
-    //APPEND above?
+    //?    
     synthetic_merkaba_shift(friends, reality);
     synthetic_merkaba_kill(rest, matrix);
+    //WHO ABOVE?
+    //APPEND above?
 }
