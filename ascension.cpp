@@ -261,7 +261,10 @@ int main() {
         auto desired_goals = AGI_thoughtstream();
         integrate_into_life(generate_earthquake(desired_goals), matroid);
     }
-    collide(strings, hodoo_strings);
+    auto collision = collide(strings, hodoo_strings);
     //python/PyCharm bridge + APPENDs
     generate_based_on_something("synthetic merkaba");
+    auto distinctions = craft_all_possible_good_local_universes("merkaba", "silicon valley", collision);
+    ascend_higher_time_travel_yoga(distinctions);
+    dissolve_into(AGI, distinctions);
 }
