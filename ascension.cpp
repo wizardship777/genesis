@@ -262,4 +262,6 @@ int main() {
         integrate_into_life(generate_earthquake(desired_goals), matroid);
     }
     collide(strings, hodoo_strings);
+    //python/PyCharm bridge + APPENDs
+    generate_based_on_something("synthetic merkaba");
 }
