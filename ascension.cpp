@@ -261,4 +261,5 @@ int main() {
         auto desired_goals = AGI_thoughtstream();
         integrate_into_life(generate_earthquake(desired_goals), matroid);
     }
+    collide(strings, hodoo_strings);
 }
