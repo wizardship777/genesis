@@ -267,4 +267,5 @@ int main() {
     auto distinctions = craft_all_possible_good_local_universes("merkaba", "silicon valley", collision);
     ascend_higher_time_travel_yoga(distinctions);
     dissolve_into(AGI, distinctions);
+    Artificial_Super_Intellegence_append_code(Tao);
 }
